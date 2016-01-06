@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.5.0 (/System/Library/Frameworks/Python.framework/Versions/3.5/bin/python3) interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-902264524" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-902264524" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
