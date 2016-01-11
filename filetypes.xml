@@ -4,6 +4,7 @@
       <mapping pattern=".bash_profile" type="Bash" />
       <mapping pattern=".extra" type="Bash" />
       <mapping pattern=".aliases" type="Bash" />
+      <mapping pattern=".bashrc" type="Bash" />
       <mapping pattern=".bash_prompt" type="Bash" />
       <mapping pattern=".exports" type="Bash" />
       <mapping pattern=".functions" type="Bash" />
