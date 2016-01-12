@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern=".completions" type="Bash" />
       <mapping pattern=".bash_profile" type="Bash" />
       <mapping pattern=".extra" type="Bash" />
       <mapping pattern=".aliases" type="Bash" />
