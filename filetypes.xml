@@ -13,6 +13,7 @@
       <mapping pattern=".jcolor" type="Bash" />
       <mapping pattern=".jcompletions" type="Bash" />
       <mapping pattern=".path" type="Bash" />
+      <mapping pattern=".osx" type="Bash" />
       <mapping pattern=".bashrc" type="Bash" />
       <mapping pattern=".jfunctions" type="Bash" />
       <mapping pattern=".jpath" type="Bash" />
