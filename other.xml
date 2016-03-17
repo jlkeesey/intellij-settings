@@ -18,16 +18,6 @@
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-      </value>
-    </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
-  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
@@ -89,9 +79,6 @@
     <option name="ITN_PASSWORD_CRYPT" value="" />
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
-  </component>
-  <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="tapestry:parameter" />
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="4.0.0" last-modified="1443478510000" />
