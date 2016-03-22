@@ -34,6 +34,10 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="4.0.0" last-modified="1443478510000" />
   </component>
+  <component name="PluginSettings">
+    <targets url-encoded="true" />
+    <successfultargets url-encoded="true" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
