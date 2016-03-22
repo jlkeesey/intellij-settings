@@ -3,7 +3,7 @@
     <option name="google3" value="/google/src/cloud/keesey/working/google3" />
     <option name="targets">
       <list>
-        <option value="onegoogle:AllTests" />
+        <option value="onegoogle:client_tests" />
       </list>
     </option>
     <option name="includedPackages">
