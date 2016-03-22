@@ -4,11 +4,14 @@
     <option name="targets">
       <list>
         <option value="onegoogle:client_tests" />
+        <option value="onegoogle/...:all" />
+        <option value="javascript/onegoogle/...:all" />
       </list>
     </option>
     <option name="includedPackages">
       <list>
         <option value="onegoogle" />
+        <option value="javascript/onegoogle" />
       </list>
     </option>
   </component>
