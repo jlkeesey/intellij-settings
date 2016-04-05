@@ -3,6 +3,7 @@
     <appliedSettings>
       <entry key="DisableKotlinPlugin" value="true" />
       <entry key="GoogleStyleSet" value="true" />
+      <entry key="ReenableKotlinPlugin" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
       <entry key="vm_disable_png_indexing" value="true" />
       <entry key="vm_experiments_file" value="true" />
