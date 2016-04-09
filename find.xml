@@ -31,6 +31,8 @@
       <mask>*.ts, *.json</mask>
       <mask>*.html, *.js, *.json, *.dust, *.css, *.styl, *.sh, *.sql</mask>
       <mask>*.gss</mask>
+      <mask>*.param</mask>
+      <mask>*.params</mask>
     </recentFileMasks>
   </component>
 </application>
