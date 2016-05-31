@@ -31,9 +31,9 @@
       <mask>*.param</mask>
       <mask>*.gss</mask>
       <mask>*.gss,*.html</mask>
-      <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.params</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
