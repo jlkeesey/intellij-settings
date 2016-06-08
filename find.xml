@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="One Google" />
+    <option name="FILE_MASK" value="*.params" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -32,8 +33,8 @@
       <mask>*.gss</mask>
       <mask>*.gss,*.html</mask>
       <mask>*.html</mask>
-      <mask>*.params</mask>
       <mask>*.js</mask>
+      <mask>*.params</mask>
     </recentFileMasks>
   </component>
 </application>
