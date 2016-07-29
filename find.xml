@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="One Google" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -36,6 +35,7 @@
       <mask>*.html</mask>
       <mask>*.proto</mask>
       <mask>*.params</mask>
+      <mask>*.css, *.gss</mask>
     </recentFileMasks>
   </component>
 </application>
