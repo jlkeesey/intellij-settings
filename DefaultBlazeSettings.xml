@@ -1,0 +1,21 @@
+<application>
+  <component name="BlazePlugin.TargetSettings">
+    <option name="google3" value="/google/src/cloud/keesey/working/google3" />
+    <option name="targets">
+      <list>
+        <option value="onegoogle:client_tests" />
+        <option value="onegoogle/...:all" />
+        <option value="javascript/onegoogle/...:all" />
+        <option value="javascript/externs:all" />
+        <option value="javascript/externs:all" />
+      </list>
+    </option>
+    <option name="includedPackages">
+      <list>
+        <option value="onegoogle" />
+        <option value="javascript/onegoogle" />
+        <option value="javascript/externs" />
+      </list>
+    </option>
+  </component>
+</application>

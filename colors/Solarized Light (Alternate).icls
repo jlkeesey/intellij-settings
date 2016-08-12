@@ -1,7 +1,7 @@
 <scheme name="Solarized Light (Alternate)" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
@@ -24,7 +24,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -381,7 +380,6 @@
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
