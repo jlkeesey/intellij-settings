@@ -28,6 +28,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="spl" type="PLAIN_TEXT" />
+      <mapping ext="jtm" type="PLAIN_TEXT" />
       <mapping ext="dust" type="Dust" />
       <mapping pattern="Vagrantfile" type="Ruby" />
     </extensionMap>
