@@ -1,4 +1,5 @@
 <code_scheme name="Default (2)">
+  <option name="FIELD_NAME_SUFFIX" value="_" />
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="RIGHT_MARGIN" value="80" />
