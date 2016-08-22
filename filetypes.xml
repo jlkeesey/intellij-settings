@@ -1,34 +1,36 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".jpath" type="Bash" />
+      <mapping pattern=".completions" type="Bash" />
+      <mapping pattern=".jcolor" type="Bash" />
+      <mapping pattern=".bash_profile" type="Bash" />
+      <mapping pattern=".bashrc" type="Bash" />
+      <mapping pattern=".jextra" type="Bash" />
+      <mapping pattern=".bash_prompt" type="Bash" />
+      <mapping pattern=".jfunctions" type="Bash" />
+      <mapping pattern=".jaliases" type="Bash" />
+      <mapping pattern=".path" type="Bash" />
+      <mapping pattern=".osx" type="Bash" />
+      <mapping pattern=".extra" type="Bash" />
+      <mapping pattern=".jcompletions" type="Bash" />
+      <mapping pattern=".exports" type="Bash" />
+      <mapping pattern=".jexports" type="Bash" />
+      <mapping pattern=".functions" type="Bash" />
+      <mapping pattern=".aliases" type="Bash" />
+      <mapping pattern=".jprompt" type="Bash" />
       <mapping ext="gss" type="CSS" />
+      <mapping pattern="todos" type="Markdown" />
       <mapping pattern="nots" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="list" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="spl" type="PLAIN_TEXT" />
+      <mapping ext="jtm" type="PLAIN_TEXT" />
       <mapping ext="dust" type="Dust" />
-      <mapping pattern=".aliases" type="Bash" />
-      <mapping pattern=".bash_profile" type="Bash" />
-      <mapping pattern=".bash_prompt" type="Bash" />
-      <mapping pattern=".bashrc" type="Bash" />
-      <mapping pattern=".completions" type="Bash" />
-      <mapping pattern=".exports" type="Bash" />
-      <mapping pattern=".extra" type="Bash" />
-      <mapping pattern=".functions" type="Bash" />
-      <mapping pattern=".jaliases" type="Bash" />
-      <mapping pattern=".jcolor" type="Bash" />
-      <mapping pattern=".jcompletions" type="Bash" />
-      <mapping pattern=".jexports" type="Bash" />
-      <mapping pattern=".jextra" type="Bash" />
-      <mapping pattern=".jfunctions" type="Bash" />
-      <mapping pattern=".jpath" type="Bash" />
-      <mapping pattern=".jprompt" type="Bash" />
-      <mapping pattern=".osx" type="Bash" />
-      <mapping pattern=".path" type="Bash" />
       <mapping pattern="Vagrantfile" type="Ruby" />
-      <mapping pattern="todos" type="Markdown" />
     </extensionMap>
   </component>
 </application>
