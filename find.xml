@@ -1,11 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="One Google" />
     <option name="defaultScopeName" value="One Google" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="One Google" />
-    <option name="FILE_MASK" value="*.params" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -34,9 +35,9 @@
       <mask>*.js</mask>
       <mask>*.cc</mask>
       <mask>*.proto</mask>
-      <mask>*.css, *.gss</mask>
       <mask>*.html</mask>
       <mask>*.params</mask>
+      <mask>*.css, *.gss</mask>
     </recentFileMasks>
   </component>
 </application>
