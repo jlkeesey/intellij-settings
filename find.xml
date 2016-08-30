@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/pub/carkeys/lighter/jtm/Token.java - [lighter]'" />
-    <option name="defaultScopeName" value="File '.../src/pub/carkeys/lighter/jtm/Token.java - [lighter]'" />
-    <option name="localCaseSensitive" value="true" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="One Google" />
+    <option name="defaultScopeName" value="One Google" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/pub/carkeys/lighter/jtm/Token.java - [lighter]'" />
+    <option name="SEARCH_SCOPE" value="One Google" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -34,8 +34,8 @@
       <mask>*.gss,*.html</mask>
       <mask>*.js</mask>
       <mask>*.cc</mask>
-      <mask>*.html</mask>
       <mask>*.proto</mask>
+      <mask>*.html</mask>
       <mask>*.params</mask>
       <mask>*.css, *.gss</mask>
     </recentFileMasks>
