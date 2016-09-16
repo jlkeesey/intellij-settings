@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="One Google" />
-    <option name="defaultScopeName" value="One Google" />
+    <option name="customScope" value="Project 'lighter'" />
+    <option name="defaultScopeName" value="Project 'lighter'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="One Google" />
+    <option name="SEARCH_SCOPE" value="Project 'lighter'" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
