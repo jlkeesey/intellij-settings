@@ -3,6 +3,7 @@
   <option name="FIELD_NAME_SUFFIX" value="_" />
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
   <option name="RIGHT_MARGIN" value="80" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
