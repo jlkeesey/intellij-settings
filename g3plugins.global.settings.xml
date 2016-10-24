@@ -2,6 +2,7 @@
   <component name="G3PluginsGlobalSettings">
     <appliedSettings>
       <entry key="DisableKotlinPlugin" value="true" />
+      <entry key="DisableSafeWrite" value="true" />
       <entry key="GoogleStyleSet" value="true" />
       <entry key="ReenableKotlinPlugin" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
