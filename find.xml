@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.css, *.gss" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
