@@ -4,6 +4,8 @@
       <entry key="DisableKotlinPlugin" value="true" />
       <entry key="DisableSafeWrite" value="true" />
       <entry key="GoogleStyleSet" value="true" />
+      <entry key="IgnorePipertmpFiles" value="true" />
+      <entry key="PiccoloFileType" value="true" />
       <entry key="ReenableKotlinPlugin" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
       <entry key="SynchronizeFilesOnFrameActivation" value="true" />
