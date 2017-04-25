@@ -9,17 +9,13 @@
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" useCustomColors="false" case-sensitive="false" pattern="\btodo:?\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
-    <pattern icon="question" useCustomColors="false" case-sensitive="false" pattern="\bfixme:?\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
+    <pattern icon="question" pattern="\btodo:?\b.*" />
+    <pattern icon="question" pattern="\bfixme:?\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
