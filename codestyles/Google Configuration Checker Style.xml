@@ -23,6 +23,10 @@
       <emptyLine />
       <package name="com.google" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="android" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="antenna" withSubpackages="true" static="false" />
@@ -262,10 +266,6 @@
       <package name="woolfel" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="wowza" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="java" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="" withSubpackages="true" static="false" />
     </value>
