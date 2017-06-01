@@ -1,5 +1,6 @@
 <application>
   <component name="Piper.ChangeListSettings">
+    <option name="moveChangesToNewChangeList" value="false" />
     <option name="makeNewChangeListActive" value="false" />
   </component>
 </application>
