@@ -1,11 +1,11 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/keesey/s1/google3::/usr/local/google/home/keesey/dev/bob/bobby/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/keesey/iblaze/google3::/google/src/cloud/keesey/s1/google3::/usr/local/google/home/keesey/dev/bob/bobby/google3" />
       <entry key="create-fig-workspace.last-directory" value="$USER_HOME$/dev/bob" />
-      <entry key="generate-from-build-file.last-workspace-path" value="java/com/google/spanner/codelab/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="experimental/keesey/ib/BUILD" />
       <entry key="import-from-workspace.last-workspace-path" value="identity/cloud/directorysync/.blazeproject" />
-      <entry key="select-project-view.selected-option" value="import-from-workspace" />
+      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="use-existing-citc-workspace" />
     </settings>
   </component>
