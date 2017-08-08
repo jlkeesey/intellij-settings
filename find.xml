@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="Module '.workspace'" />
+    <option name="defaultScopeName" value="Module '.workspace'" />
+    <option name="SEARCH_SCOPE" value="Module '.workspace'" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
