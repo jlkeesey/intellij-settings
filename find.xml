@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="Client" />
+    <option name="defaultScopeName" value="Client" />
+    <option name="SEARCH_SCOPE" value="Client" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
