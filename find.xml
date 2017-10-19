@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Client" />
     <option name="defaultScopeName" value="Client" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Client" />
     <recentFileMasks>
       <mask>*.jsp</mask>
