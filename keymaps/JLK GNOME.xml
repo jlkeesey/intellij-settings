@@ -2,5 +2,8 @@
   <action id="Blaze.OpenCorrespondingBuildFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
+  <action id="CodesearchSearchAction">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="DatabaseView.OpenDdlInConsole" />
 </keymap>
