@@ -1,0 +1,10 @@
+<templateSet group="Python">
+  <template name="prop" value="@property&#10;def $NAME$(self):&#10;    return self.$END$_$NAME$" description="Property getter" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="props" value="@property&#10;def $NAME$(self):&#10;    return self.$END$_$NAME$&#10;&#10;@$NAME$.setter&#10;def $NAME$(self, value):&#10;    self._$NAME$ = value" description="Property getter/setter" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
