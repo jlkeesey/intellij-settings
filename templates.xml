@@ -3,22 +3,6 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_import" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_template" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_lambda" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_declare_objtype" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="jsf" />
           <option name="key" value="tldTag" />
         </TemplateKey>
@@ -113,6 +97,22 @@
         <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="introduce_field" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GclHiddenTemplate" />
+          <option name="key" value="gcl_keyword_import" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GclHiddenTemplate" />
+          <option name="key" value="gcl_keyword_template" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GclHiddenTemplate" />
+          <option name="key" value="gcl_keyword_lambda" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GclHiddenTemplate" />
+          <option name="key" value="gcl_keyword_declare_objtype" />
         </TemplateKey>
       </list>
     </option>
