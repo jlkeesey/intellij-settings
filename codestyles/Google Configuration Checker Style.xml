@@ -23,6 +23,10 @@
       <emptyLine />
       <package name="com.google" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="android" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="antenna" withSubpackages="true" static="false" />
@@ -263,15 +267,10 @@
       <emptyLine />
       <package name="wowza" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="java" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="javax" withSubpackages="true" static="false" />
-      <emptyLine />
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="80" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="RIGHT_MARGIN" value="100" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_P_AT_EMPTY_LINES" value="false" />
@@ -303,6 +302,10 @@
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="KEEP_TRAILING_SPACES" value="2" />
+    <option name="FORMAT_WITH_SOFT_WRAP" value="1" />
+    <option name="LIST_ADD_BLANK_LINE_BEFORE" value="true" />
+    <option name="LIST_ALIGN_FIRST_LINE_TEXT" value="true" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>
@@ -398,6 +401,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
@@ -729,5 +733,12 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="go">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>

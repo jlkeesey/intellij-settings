@@ -1,0 +1,9 @@
+<keymap version="1" name="JLK GNOME" parent="Default for GNOME">
+  <action id="Blaze.OpenCorrespondingBuildFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="CodesearchSearchAction">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
+</keymap>
