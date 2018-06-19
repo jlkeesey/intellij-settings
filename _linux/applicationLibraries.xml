@@ -1,5 +1,34 @@
 <application>
   <component name="libraryTable">
+    <library name="GRTE-Python 2.7 (1) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/buildtools/current/sitecustomize" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7/plat-linux2" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1527744460" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/buildtools/current/sitecustomize" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7/plat-linux2" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/grte/v4/k8-linux/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1527744460" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="GRTE-Python 2.7 interpreter library">
       <CLASSES>
         <root url="file:///usr/local/buildtools/current/sitecustomize" />
