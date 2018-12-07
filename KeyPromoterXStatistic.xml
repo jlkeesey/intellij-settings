@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Alt+Shift+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compile Project">
@@ -14,7 +14,7 @@
           <IdeaActionID>MakeBlazeProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Compile Project</Description>
-          <Count>15</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Blaze run ibw:ibw'">
@@ -86,7 +86,15 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Blaze run ibw:ibw'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Blaze run ibw:ibw'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -94,7 +102,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>3</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -126,15 +134,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -143,6 +143,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Hierarchy">
+        <Item>
+          <IdeaActionID>TypeHierarchy</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Type Hierarchy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
