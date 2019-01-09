@@ -65,6 +65,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Corresponding BUILD File">
+        <Item>
+          <IdeaActionID>Blaze.OpenCorrespondingBuildFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
+          <Description>Open Corresponding BUILD File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
