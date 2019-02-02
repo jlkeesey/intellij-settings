@@ -1,41 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.css</mask>
-      <mask>package.json</mask>
-      <mask>*.html, *.js</mask>
-      <mask>*.html, *.js, *.css, *.styl</mask>
-      <mask>*.html, *.js, *.css, *.styl, *.json</mask>
-      <mask>*.html, *.js, *.json</mask>
-      <mask>*.html, *.js, *.json, *.dust</mask>
-      <mask>*.html, *.js, *.json, *.dust, *.css</mask>
-      <mask>*.html, *.js, *.json, *.dust, *.css, *.less</mask>
-      <mask>*.styl</mask>
-      <mask>*.xml,*.xsd</mask>
-      <mask>*.html, *.js, *.json, *.dust, *.css, *.styl</mask>
-      <mask>*.sh</mask>
-      <mask>*.html, *.js, *.json, *.dust, *.css, *.styl, *.sh</mask>
-      <mask>*.ts, *.json</mask>
-      <mask>*.html, *.js, *.json, *.dust, *.css, *.styl, *.sh, *.sql</mask>
-      <mask>*.param</mask>
-      <mask>*.gss</mask>
-      <mask>*.gss,*.html</mask>
-      <mask>*.js</mask>
-      <mask>*.cc</mask>
-      <mask>*.proto</mask>
-      <mask>*.html</mask>
-      <mask>*.params</mask>
-      <mask>*.css, *.gss</mask>
-    </recentFileMasks>
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
