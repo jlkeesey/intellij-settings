@@ -14,6 +14,7 @@
       <entry key="ReenableKotlinPlugin" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
       <entry key="SynchronizeFilesOnFrameActivation" value="true" />
+      <entry key="TypeScriptConfigFileType" value="true" />
       <entry key="vm_disable_png_indexing" value="true" />
       <entry key="vm_experiments_file" value="true" />
       <entry key="vm_indexer_thread_count" value="true" />

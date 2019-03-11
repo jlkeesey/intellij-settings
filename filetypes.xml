@@ -31,6 +31,7 @@
       <mapping ext="pi" type="Python" />
       <mapping ext="sdl" type="SQL" />
       <mapping ext="rpclog" type="prototext" />
+      <mapping pattern="tsconfig_editor.json" type="tsconfig" />
       <mapping ext="dust" type="Dust" />
       <mapping pattern="Vagrantfile" type="Ruby" />
     </extensionMap>
