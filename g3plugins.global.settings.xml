@@ -1,6 +1,7 @@
 <application>
   <component name="G3PluginsGlobalSettings">
     <appliedSettings>
+      <entry key="Angular2HtmlFileType" value="true" />
       <entry key="AutoSaveWhenIdle" value="true" />
       <entry key="CodesearchActionShortcutSetting" value="true" />
       <entry key="DisableKotlinPlugin" value="true" />
