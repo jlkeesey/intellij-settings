@@ -309,6 +309,7 @@
         <package name="com.google" withSubpackages="true" static="false" />
         <package name="java" withSubpackages="true" static="false" />
         <package name="javax" withSubpackages="true" static="false" />
+        <package name="org" withSubpackages="true" static="false" />
         <package name="android" withSubpackages="true" static="false" />
         <package name="antenna" withSubpackages="true" static="false" />
         <package name="antlr" withSubpackages="true" static="false" />
@@ -481,7 +482,6 @@
         <emptyLine />
         <package name="oracle" withSubpackages="true" static="false" />
         <emptyLine />
-        <package name="org" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="oz" withSubpackages="true" static="false" />
         <emptyLine />
