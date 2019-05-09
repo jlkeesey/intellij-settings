@@ -121,6 +121,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Java Class">
+        <Item>
+          <IdeaActionID>NewClass</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+J'</ShortCut>
+          <Description>Java Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Corresponding BUILD File">
         <Item>
           <IdeaActionID>Blaze.OpenCorrespondingBuildFile</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
