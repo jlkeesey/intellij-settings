@@ -262,7 +262,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>24</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -278,7 +278,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>71</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Blaze run queues:queues'">
@@ -295,6 +295,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Blaze run testing:TestingWorker'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Blaze test LdapSearchResultEntryExtractorTest.getString_invalid'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Blaze test LdapSearchResultEntryExtractorTest.getString_invalid'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Blaze test SearchResultEntryToUserConverterTest.convert_success'">
@@ -342,7 +350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
