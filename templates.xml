@@ -11,12 +11,52 @@
           <option name="key" value="tldFunction" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="uicomponent" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfconverter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="navrule" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="refbean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="renderkit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfvalidator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="propertybean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="mapentriesbean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="listentriesbean" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="go_lang_package" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="go_lang_import" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_import_with_parens" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
@@ -68,6 +108,18 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_map" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_slice" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_array" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="go_lang_var" />
         </TemplateKey>
         <TemplateKey>
@@ -103,20 +155,16 @@
           <option name="key" value="introduce_field" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_import" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="template_type_hint_comment" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_template" />
+          <option name="groupName" value="Gcl Templates For Completion (Hidden)" />
+          <option name="key" value="gcl_import" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_lambda" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="GclHiddenTemplate" />
-          <option name="key" value="gcl_keyword_declare_objtype" />
+          <option name="groupName" value="Gcl Templates For Completion (Hidden)" />
+          <option name="key" value="gcl_declare_objtype" />
         </TemplateKey>
       </list>
     </option>
