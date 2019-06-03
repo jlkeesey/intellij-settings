@@ -134,7 +134,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -190,7 +190,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Ctrl+Alt+J'</ShortCut>
           <Description>Java Class</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
