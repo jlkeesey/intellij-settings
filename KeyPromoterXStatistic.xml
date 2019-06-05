@@ -6,7 +6,7 @@
           <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add rule</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Move up">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Up</IdeaActionID>
+          <ShortCut>'Alt+Up'</ShortCut>
+          <Description>Move up</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Sort Lines">
@@ -382,7 +390,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
