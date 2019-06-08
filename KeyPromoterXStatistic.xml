@@ -46,7 +46,7 @@
           <IdeaActionID>MakeBlazeProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Compile Project</Description>
-          <Count>58</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -398,7 +398,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
