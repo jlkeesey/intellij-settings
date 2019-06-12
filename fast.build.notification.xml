@@ -1,6 +1,7 @@
 <application>
   <component name="FastBuildSuggestion">
-    <option name="lastDisplayedTimeMs" value="1558477908830" />
-    <option name="timesDisplayed" value="2" />
+    <option name="lastDisplayedTimeMs" value="1560361181977" />
+    <option name="timesDisplayed" value="3" />
+    <option name="triedFastBuild" value="true" />
   </component>
 </application>
