@@ -46,7 +46,7 @@
           <IdeaActionID>MakeBlazeProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Compile Project</Description>
-          <Count>69</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -151,6 +151,14 @@
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Source</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
