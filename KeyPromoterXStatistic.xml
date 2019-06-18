@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Alt+Shift+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -46,7 +46,7 @@
           <IdeaActionID>MakeBlazeProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Compile Project</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
