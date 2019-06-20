@@ -26,6 +26,7 @@
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
+      <mapping ext="rosy" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="jtm" type="PLAIN_TEXT" />
       <mapping ext="spl" type="PLAIN_TEXT" />
