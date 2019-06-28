@@ -30,7 +30,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -46,7 +46,7 @@
           <IdeaActionID>MakeBlazeProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Compile Project</Description>
-          <Count>94</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
