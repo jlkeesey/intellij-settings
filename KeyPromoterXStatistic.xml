@@ -46,7 +46,7 @@
           <IdeaActionID>MakeBlazeProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Compile Project</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -238,7 +238,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Ctrl+Alt+J'</ShortCut>
           <Description>Java Class</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
