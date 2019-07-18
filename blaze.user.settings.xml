@@ -1,4 +1,7 @@
 <application>
+  <component name="AutoSyncSettings">
+    <option name="autoSyncOnProtoChanges" value="true" />
+  </component>
   <component name="BlazeUserSettings">
     <option name="expandSyncToWorkingSet" value="false" />
     <option name="syncStatusPopupShown" value="true" />
