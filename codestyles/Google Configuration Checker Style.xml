@@ -559,11 +559,17 @@
     <option name="JD_KEEP_EMPTY_RETURN" value="false" />
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="INDENT_SIZE" value="2" />
+    <option name="KEEP_HARD_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES" value="1" />
     <option name="KEEP_TRAILING_SPACES" value="2" />
     <option name="FORMAT_WITH_SOFT_WRAP" value="1" />
     <option name="LIST_ADD_BLANK_LINE_BEFORE" value="true" />
     <option name="LIST_ALIGN_FIRST_LINE_TEXT" value="true" />
-    <option name="RIGHT_MARGIN" value="72" />
+    <option name="VERBATIM_MINIMIZE_INDENT" value="true" />
+    <option name="CODE_FENCE_MATCH_CLOSING_MARKER" value="true" />
+    <option name="BLOCK_QUOTE_FIRST_LINE_MARKERS" value="2" />
+    <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
@@ -937,6 +943,11 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
