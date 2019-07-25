@@ -233,6 +233,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Increase list level">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ListIndent</IdeaActionID>
+          <ShortCut>'Meta+U'</ShortCut>
+          <Description>Increase list level</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Java Class">
         <Item>
           <IdeaActionID>NewClass</IdeaActionID>
@@ -551,6 +559,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>66</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle bold mode">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ToggleBold</IdeaActionID>
+          <ShortCut>'Meta+B'</ShortCut>
+          <Description>Toggle bold mode</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
