@@ -571,6 +571,11 @@
     <option name="BLOCK_QUOTE_FIRST_LINE_MARKERS" value="2" />
     <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
+  <PowerShellCodeStyleSettings>
+    <option name="BLOCK_PARAMETER_CLAUSE_WRAP" value="5" />
+    <option name="ALIGN_MULTILINE_BLOCK_PARAMETERS" value="true" />
+    <option name="SPACE_WITHIN_SUB_EXPRESSION_PARENTHESES" value="false" />
+  </PowerShellCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -949,6 +954,16 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PowerShell">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="BRACE_STYLE" value="1" />
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="80" />
