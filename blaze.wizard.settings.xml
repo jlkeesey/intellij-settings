@@ -1,12 +1,12 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/keesey/lynx/google3::/google/src/cloud/keesey/test/google3::/google/src/cloud/keesey/tools/google3::/google/src/cloud/keesey/powershell_clean/google3::/google/src/cloud/keesey/boqqueue/google3::/google/src/cloud/keesey/queue/google3::/google/src/cloud/keesey/ds/google3::/google/src/cloud/keesey/eval/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/keesey/minshara/google3::/google/src/cloud/keesey/lynx/google3::/google/src/cloud/keesey/test/google3::/google/src/cloud/keesey/tools/google3::/google/src/cloud/keesey/powershell_clean/google3::/google/src/cloud/keesey/boqqueue/google3::/google/src/cloud/keesey/queue/google3::/google/src/cloud/keesey/ds/google3" />
       <entry key="copy-external.last-project-view-path" value="$USER_HOME$/fig/test/google3/identity/cloud/directorysync/directorysync.blazeproject" />
       <entry key="create-fig-workspace.last-directory" value="$USER_HOME$/fig" />
       <entry key="generate-from-build-file.last-workspace-path" value="java/com/google/apps/boq/appsdevplatform/lynx/shared/routing/BUILD" />
-      <entry key="import-from-workspace.last-workspace-path" value="identity/cloud/directorysync/directorysync.blazeproject" />
-      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
+      <entry key="import-from-workspace.last-workspace-path" value="experimental/users/keesey/java/com/google/devtools/minshara/minshara.blazeproject" />
+      <entry key="select-project-view.selected-option" value="import-from-workspace" />
       <entry key="select-workspace.selected-option" value="fig-on-citc-workspace-type" />
     </settings>
   </component>
