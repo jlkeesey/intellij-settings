@@ -10,6 +10,7 @@
       <entry key="DisableOverridingIdeShortcuts" value="true" />
       <entry key="DisableSafeWrite" value="true" />
       <entry key="GoogleStyleSet" value="true" />
+      <entry key="IdeaMaxIntellisenseFilesize" value="true" />
       <entry key="IgnorePipertmpFiles" value="true" />
       <entry key="JsdocReturnTag" value="true" />
       <entry key="PiccoloFileType" value="true" />
