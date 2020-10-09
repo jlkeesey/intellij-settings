@@ -1,45 +1,6 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="SMART_END_ACTION" value="false" />
-    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Hack" />
-    <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="JAVA" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="IS_VIRTUAL_SPACE" value="true" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_INTENTION_BULB" value="false" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="SMART_HOME" value="false" />
-    <option name="IS_CAMEL_WORDS" value="true" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-    <option name="collapseSuppressWarnings" value="false" />
-  </component>
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="\btodo:?\b.*" />
     <pattern icon="question" pattern="\bfixme:?\b.*" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
