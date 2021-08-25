@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X JLK" parent="Mac OS X">
+  <action id="ContextHelp">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
@@ -28,6 +31,7 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="ProjectViewChangeView" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
@@ -35,6 +39,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SelectIn" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
