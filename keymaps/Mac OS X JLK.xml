@@ -5,6 +5,9 @@
   <action id="DecrementWindowHeight" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -58,4 +61,6 @@
   <action id="UpdateCopyright">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="com.jtschwartz.smartsort.RecursiveSort" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
